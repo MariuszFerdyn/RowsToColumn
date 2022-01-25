@@ -1,5 +1,5 @@
 # RowsToColumn
-CSV - Rows To Column - better Transpose
+CSV - Rows To Columns - better Transpose
 
 Just execute with 3 parameters
 first parameter - first column to transpose
